@@ -4,7 +4,7 @@ Este é um projeto de apresentação interativa criada com **HTML + CSS + JavaSc
 
 ## 💡 Sobre
 
-Fui convidado para ministrar palestras para alunos do 1º e 3º ano de **Análise e Desenvolvimento de Sistemas (ADS)**, e preparei essa apresentação online como forma de compartilhar minha trajetória, stack de tecnologias, projetos reais e um desafio lógico para os estudantes.
+Fui convidado para ministrar palestras para alunos do 1º, 2º é 3º ano de **Análise e Desenvolvimento de Sistemas (ADS)**, e preparei essa apresentação online como forma de compartilhar minha trajetória, stack de tecnologias, projetos reais e um desafio lógico para os estudantes.
 
 Tudo isso com uma pegada futurista, minimalista e nerd, como tem que ser 😎.
 
@@ -12,7 +12,7 @@ Tudo isso com uma pegada futurista, minimalista e nerd, como tem que ser 😎.
 
 Você pode visualizar a apresentação online aqui:
 
-🔗 [https://elvishotz.github.io/palestra-ads-2025](https://elvishotz.github.io/palestra-ads-2025)
+🔗 [https://elvishotz.github.io/palestra-ads-t1-2025](https://elvishotz.github.io/palestra-ads-t1-2025)
 
 ## 🛠️ Tecnologias utilizadas
 
